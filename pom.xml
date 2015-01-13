@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ember-i18n</artifactId>
-    <version>3.0.0-beta.2</version>
+    <version>3.0.1-beta.2-SNAPSHOT</version>
     <name>ember-i18n</name>
     <description>WebJar for ember-i18n</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/ember-i18n</url>
         <connection>scm:git:https://github.com/webjars/ember-i18n.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ember-i18n.git</developerConnection>
-        <tag>ember-i18n-3.0.0-beta.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
